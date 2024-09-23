@@ -41,7 +41,7 @@ try:
 except: pass
 audio_extensions = ['mp3', 'mp4', 'wav', 'ogg']
 
-path_cwd = "ComfyUI/custom_nodes/ComfyUI-DeepFuze" if os.path.isdir("ComfyUI/custom_nodes/ComfyUI-DeepFuze") else "custom_nodes/ComfyUI-DeepFuze"
+path_cwd = "ComfyUI/custom_nodes/ComfyUI-DeepFuze" if os.path.isdir("ComfyUI/custom_nodes/ComfyUI-DeepFuze") else "Custom_nodes/ComfyUI-DeepFuze"
 
 video_extensions = ['webm', 'mp4', 'mkv', 'gif']
 
